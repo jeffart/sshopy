@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CategoriesController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CategoriesController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Controller/CategoriesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="10" selection-start="269" selection-end="269" vertical-scroll-proportion="0.35993487" vertical-offset="0" max-vertical-offset="614">
+            <state line="4" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Category.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="125" selection-end="125" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="187">
+            <state line="14" column="42" selection-start="320" selection-end="320" vertical-scroll-proportion="0.2545757" vertical-offset="0" max-vertical-offset="601">
               <folding />
             </state>
           </provider>
@@ -66,9 +66,9 @@
         <option value="$PROJECT_DIR$/app/View/Elements/menu.ctp" />
         <option value="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
         <option value="$PROJECT_DIR$/app/Config/database.php" />
-        <option value="$PROJECT_DIR$/app/Model/Category.php" />
         <option value="$PROJECT_DIR$/app/View/Categories/index.ctp" />
         <option value="$PROJECT_DIR$/app/Controller/CategoriesController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Category.php" />
       </list>
     </option>
   </component>
@@ -376,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="125" selection-end="125" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="187">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Categories/index.ctp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="24" selection-start="551" selection-end="551" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
@@ -392,7 +385,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Controller/CategoriesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="269" selection-end="269" vertical-scroll-proportion="0.35993487" vertical-offset="0" max-vertical-offset="614">
+        <state line="4" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="42" selection-start="320" selection-end="320" vertical-scroll-proportion="0.2545757" vertical-offset="0" max-vertical-offset="601">
           <folding />
         </state>
       </provider>
