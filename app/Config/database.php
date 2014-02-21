@@ -64,7 +64,7 @@ class DATABASE_CONFIG {
         'password' => 'petsy',
 		'database' => 'simplyshop',
 		'prefix' => '',
-		//'encoding' => 'utf8',
+		///'encoding' => 'utf8',
 	);
 
 	public $test = array(
